@@ -1,0 +1,8 @@
+
+# Automatically read in the dataset of the main MieX result file. 
+# Step 1 -> load scatter and absorption opacity (C Q values) and transform it to dustkappa... files
+# It would be also good to generate a file which summarizes the input parameter corresponding to the MieX tool
+@ Do we need something else ?
+@ Let's do the scatter matrix in August :)
+
+ 
